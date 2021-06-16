@@ -20,6 +20,7 @@ remocon.addButton("button title", function() {
 });
 
 remocon.start(3000); //run server on 3000 port
+# access to http://localhost:3000/
 ```
 
 ### License
